@@ -1,0 +1,4 @@
+venv/
+static/assests/img
+db.sqlite3
+*.sqlite3
